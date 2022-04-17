@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carla-react/static/css/main.2e16ff31.css",
+    "main.js": "/carla-react/static/js/main.1edbd8a0.js",
+    "static/media/coverVideo.mp4": "/carla-react/static/media/coverVideo.0b7c9d96ecddc62ff10d.mp4",
+    "static/media/foto-carla.jpeg": "/carla-react/static/media/foto-carla.4f72d38d2db0770d80fa.jpeg",
+    "index.html": "/carla-react/index.html",
+    "main.2e16ff31.css.map": "/carla-react/static/css/main.2e16ff31.css.map",
+    "main.1edbd8a0.js.map": "/carla-react/static/js/main.1edbd8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e16ff31.css",
+    "static/js/main.1edbd8a0.js"
+  ]
+}
